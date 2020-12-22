@@ -1,2 +1,1 @@
-# Assignment 2 - Open Weather API
-## React
+# ReactJS Project using Open Weather API
